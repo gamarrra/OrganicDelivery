@@ -1,0 +1,42 @@
+D:/Web/Web/BLL/bin/Debug/BLL.dll
+D:/Web/Web/BLL/bin/Debug/BLL.pdb
+D:/Web/Web/BLL/obj/Debug/BLL.csprojResolveAssemblyReference.cache
+D:/Web/Web/BLL/obj/Debug/BLL.dll
+D:/Web/Web/BLL/obj/Debug/BLL.pdb
+D:/Web/Web/BLL/bin/Debug/DAL.dll
+D:/Web/Web/BLL/bin/Debug/ENTIDADES.dll
+D:/Web/Web/BLL/bin/Debug/DAL.pdb
+D:/Web/Web/BLL/bin/Debug/ENTIDADES.pdb
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/BLL/bin/Debug/BLL.dll
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/BLL/bin/Debug/BLL.pdb
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/BLL/bin/Debug/DAL.dll
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/BLL/bin/Debug/ENTIDADES.dll
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/BLL/bin/Debug/DAL.pdb
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/BLL/bin/Debug/ENTIDADES.pdb
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/BLL/obj/Debug/BLL.csprojAssemblyReference.cache
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/BLL/obj/Debug/BLL.csproj.CopyComplete
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/BLL/obj/Debug/BLL.dll
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/BLL/obj/Debug/BLL.pdb
+/Users/damianrosso/Desktop/WebCapas/Web/Web/BLL/bin/Debug/BLL.dll
+/Users/damianrosso/Desktop/WebCapas/Web/Web/BLL/bin/Debug/BLL.pdb
+/Users/damianrosso/Desktop/WebCapas/Web/Web/BLL/bin/Debug/DAL.dll
+/Users/damianrosso/Desktop/WebCapas/Web/Web/BLL/bin/Debug/ENTIDADES.dll
+/Users/damianrosso/Desktop/WebCapas/Web/Web/BLL/bin/Debug/DAL.pdb
+/Users/damianrosso/Desktop/WebCapas/Web/Web/BLL/bin/Debug/ENTIDADES.pdb
+/Users/damianrosso/Desktop/WebCapas/Web/Web/BLL/obj/Debug/BLL.csprojAssemblyReference.cache
+/Users/damianrosso/Desktop/WebCapas/Web/Web/BLL/obj/Debug/BLL.csproj.CoreCompileInputs.cache
+/Users/damianrosso/Desktop/WebCapas/Web/Web/BLL/obj/Debug/BLL.csproj.CopyComplete
+/Users/damianrosso/Desktop/WebCapas/Web/Web/BLL/obj/Debug/BLL.dll
+/Users/damianrosso/Desktop/WebCapas/Web/Web/BLL/obj/Debug/BLL.pdb
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\BLL\bin\Debug\BLL.dll
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\BLL\bin\Debug\BLL.pdb
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\BLL\bin\Debug\DAL.dll
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\BLL\bin\Debug\ENTIDADES.dll
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\BLL\bin\Debug\DAL.pdb
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\BLL\bin\Debug\ENTIDADES.pdb
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\BLL\obj\Debug\BLL.dll
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\BLL\obj\Debug\BLL.pdb

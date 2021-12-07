@@ -1,0 +1,23 @@
+D:/Web/Web/DAL/obj/Debug/DAL.csprojResolveAssemblyReference.cache
+D:/Web/Web/DAL/bin/Debug/DAL.dll
+D:/Web/Web/DAL/bin/Debug/DAL.pdb
+D:/Web/Web/DAL/obj/Debug/DAL.dll
+D:/Web/Web/DAL/obj/Debug/DAL.pdb
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/DAL/bin/Debug/DAL.dll
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/DAL/bin/Debug/DAL.pdb
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/DAL/obj/Debug/DAL.dll
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/DAL/obj/Debug/DAL.pdb
+/Users/damianrosso/Desktop/WebCapas/Web/Web/DAL/bin/Debug/DAL.dll
+/Users/damianrosso/Desktop/WebCapas/Web/Web/DAL/bin/Debug/DAL.pdb
+/Users/damianrosso/Desktop/WebCapas/Web/Web/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+/Users/damianrosso/Desktop/WebCapas/Web/Web/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+/Users/damianrosso/Desktop/WebCapas/Web/Web/DAL/obj/Debug/DAL.dll
+/Users/damianrosso/Desktop/WebCapas/Web/Web/DAL/obj/Debug/DAL.pdb
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\DAL\bin\Debug\DAL.dll
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\DAL\bin\Debug\DAL.pdb
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\DAL\obj\Debug\DAL.dll
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\DAL\obj\Debug\DAL.pdb
+C:\Users\camar\Documents\ISTEA\2020\2do Semestre\02 Programacion Orientada a Objetos\POOFinal\Web\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

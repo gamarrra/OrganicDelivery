@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{323ADDB0-1322-48E7-B398-198CC0A2C6A9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web/Default.aspx.cs">
+    <Files>
+      <File FileName="BLL/AlumnoBLL.cs" Line="29" Column="24" />
+      <File FileName="DAL/AlumnoDAL.cs" Line="19" Column="10" />
+      <File FileName="DAL/datos.cs" Line="88" Column="21" />
+      <File FileName="Web/Default.aspx.cs" Line="17" Column="23" />
+      <File FileName="Web/Default.aspx" Line="38" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Web" expanded="True">
+            <Node name="BLL" expanded="True" />
+            <Node name="DAL" expanded="True" />
+            <Node name="ENTIDADES" expanded="True" />
+            <Node name="Web" expanded="True">
+              <Node name="Default.aspx" expanded="True">
+                <Node name="Default.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
